@@ -1,0 +1,39 @@
+{
+  "name": "cli-shell",
+  "version": "1.0.0",
+  "description": "cli boilerplate empty-shell stdin xml json standard input common cli commands",
+  "main": "lib/cli-shell.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferakpeter/cli-shell.git"
+  },
+  "keywords": [
+    "cli",
+    "boilerplate",
+    "empty-cli",
+    "stdin",
+    "xml",
+    "json",
+    "standard",
+    "input",
+    "common",
+    "cli",
+    "commands"
+  ],
+  "author": "Peter Ferak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferakpeter/cli-shell/issues"
+  },
+  "homepage": "https://github.com/ferakpeter/cli-shell#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "is-empty": "^1.2.0",
+    "moment": "^2.17.1",
+    "winston": "^2.3.1",
+    "xml2js": "^0.4.17"
+  }
+}

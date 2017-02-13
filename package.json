@@ -1,6 +1,6 @@
 {
   "name": "cli-shell",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "cli boilerplate empty-shell stdin xml json standard input common cli commands",
   "main": "lib/cli-shell.js",
   "scripts": {
